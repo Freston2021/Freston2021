@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Freston2021
-- 👀 I’m interested in ...Back End
+- 👋 Hi, I’m EduardoJSilva
+- 👀 I’m interested in ...Back-End
 - 🌱 I’m currently learning ...Full Stack Developer.Jr.
 - 💞️ I’m looking to collaborate on ...Django's Projects
 - 📫 How to reach me ... silvaeduardojavier@hotmail.com
